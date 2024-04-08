@@ -2,8 +2,8 @@ package Animal;
 
 public abstract class Animals {
 
-    private int runMaxDistance; // Дистанция бега
-    private int swimMaxDistance; // Дистанция плавания
+    private int runMaxDistance; 
+    private int swimMaxDistance; 
     public static int getCount() {
 
         return count;
@@ -11,16 +11,16 @@ public abstract class Animals {
 
     private static int count;
     public Animals(int runMaxDistance, int swimMaxDistance) {
-        // Стучимся к самому классу Animal и его поле fullName
+       
         this.runMaxDistance = runMaxDistance;
         this.swimMaxDistance = swimMaxDistance;
         count++;
 
     }
-    public void run(int runDistance) { // Бегать
+    public void run(int runDistance) { 
         System.out.println(runDistance <= runMaxDistance ? " пробежал " + runDistance + "м" : " не может бежать");
     }
-    public void swim(int swimDistance) { // Плыть
+    public void swim(int swimDistance) { 
         System.out.println(swimDistance < swimMaxDistance ? " проплыл " + swimDistance + "м" : " не может плыть");
     }
 
