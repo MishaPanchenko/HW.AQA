@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/hsaka/IdeaProjects/Lesson_12_testng">
+        <classes>
+            <class name="org.example.CalculatorTest">
+                <methods>
+                    <include name="getFactorial"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
