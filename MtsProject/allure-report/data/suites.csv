@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 23 21:56:45 MSK 2024","Thu May 23 21:56:59 MSK 2024","14437","","Testing.Testing","","Testing.Testing","testCommission","testCommission()",""
+"passed","Thu May 23 21:56:59 MSK 2024","Thu May 23 21:57:23 MSK 2024","23450","","Testing.Testing","","Testing.Testing","checkFieldsHomeInternet","checkFieldsHomeInternet()",""
+"passed","Thu May 23 21:56:23 MSK 2024","Thu May 23 21:56:45 MSK 2024","21970","","Testing.Testing","","Testing.Testing","checkFieldInstallment","checkFieldInstallment()",""
+"passed","Thu May 23 21:56:11 MSK 2024","Thu May 23 21:56:23 MSK 2024","12050","","Testing.Testing","","Testing.Testing","testContainsLogo","testContainsLogo()",""
+"passed","Thu May 23 21:55:34 MSK 2024","Thu May 23 21:55:45 MSK 2024","11686","","Testing.Testing","","Testing.Testing","checkFieldDebt","checkFieldDebt()",""
+"passed","Thu May 23 21:55:08 MSK 2024","Thu May 23 21:55:33 MSK 2024","25297","","Testing.Testing","","Testing.Testing","linkDetailServiceTest","linkDetailServiceTest()",""
+"passed","Thu May 23 21:55:45 MSK 2024","Thu May 23 21:56:11 MSK 2024","25251","","Testing.Testing","","Testing.Testing","checkFieldsAndContinue","checkFieldsAndContinue()",""
